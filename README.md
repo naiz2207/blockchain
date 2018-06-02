@@ -1,2 +1,2 @@
 # blockchain
-blockchain make in NodeJS
+blockchain made in NodeJS
